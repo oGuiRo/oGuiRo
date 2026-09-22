@@ -106,13 +106,13 @@ Java          ██████████████░░░░░░  expe
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=node.js&logoColor=FF6FAE"/>
-<img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=FF6FAE"/>
-<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF6FAE"/>
-<img src="https://img.shields.io/badge/GitLab-0D0D0D?style=for-the-badge&logo=gitlab&logoColor=FF6FAE"/>
-<img src="https://img.shields.io/badge/Azure-0D0D0D?style=for-the-badge&logo=microsoftazure&logoColor=FF6FAE"/>
-<img src="https://img.shields.io/badge/Swagger-0D0D0D?style=for-the-badge&logo=swagger&logoColor=FF6FAE"/>
-<img src="https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=FF6FAE"/>
+<img src="https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=node.js&logoColor=007AFF"/>
+<img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=007AFF"/>
+<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=007AFF"/>
+<img src="https://img.shields.io/badge/GitLab-0D0D0D?style=for-the-badge&logo=gitlab&logoColor=007AFF"/>
+<img src="https://img.shields.io/badge/Azure-0D0D0D?style=for-the-badge&logo=microsoftazure&logoColor=007AFF"/>
+<img src="https://img.shields.io/badge/Swagger-0D0D0D?style=for-the-badge&logo=swagger&logoColor=007AFF"/>
+<img src="https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=007AFF"/>
 
 </div>
 
@@ -120,7 +120,7 @@ Java          ██████████████░░░░░░  expe
 
 <div align="center">
 
-## `✧ projetos`
+## `Projetos`
 
 <sub>Alguns dos projetos que representam minha jornada de desenvolvimento.</sub>
 
@@ -139,7 +139,7 @@ Java          ██████████████░░░░░░  expe
 <div align="center">
 
 <img src="https://img.shields.io/badge/Java-FF4F9A?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/QA-171117?style=flat-square&logo=testinglibrary&logoColor=FF6FAE"/>
+<img src="https://img.shields.io/badge/QA-171117?style=flat-square&logo=testinglibrary&logoColor=007AFF"/>
 
 <br><br>
 
@@ -175,20 +175,20 @@ Site com integração aos arquivos S3 WebPosto e unificação de ferramentas uti
 
 <br>
 
-<a href="https://www.linkedin.com/in/pamella-christiny/">
-<img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF6FAE"/>
+<a href="https://https://www.linkedin.com/in/guilherme-rodrigues-de-oliveira-b2869b2b2/">
+<img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=007AFF"/>
 </a>
 
-<a href="https://instagram.com/codebypam">
-<img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FF6FAE"/>
+<a href="https://instagram.com/ogui.ro">
+<img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=007AFF"/>
 </a>
 
-<a href="mailto:pamella.christiny2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF6FAE"/>
+<a href="mailto:guirodrigues.o2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=007AFF"/>
 </a>
 
-<a href="https://github.com/pamellachristiny">
-<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF6FAE"/>
+<a href="https://github.com/oGuiRo">
+<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=007AFF"/>
 </a>
 
 <br><br>
@@ -203,6 +203,6 @@ Site com integração aos arquivos S3 WebPosto e unificação de ferramentas uti
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff4f9a,50:171117,100:0d0d0d&section=footer" width="100%" />
 
-<sub>Feito com código, curiosidade e um toque de rosa. ♡</sub>
+<sub>Feito com código, curiosidade e um toque de azul.</sub>
 
 </div>
