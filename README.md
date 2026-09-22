@@ -14,7 +14,7 @@
 
 <br>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/oGuiRo">
 <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITAS%20AO%20PERFIL&color=007AFF&style=flat-square" alt="Profile views"/>
 </a>
 
