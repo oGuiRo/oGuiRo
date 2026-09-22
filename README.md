@@ -6,16 +6,16 @@
 
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:171117,100:ff4f9a&text=Guilherme%Rodrigues&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Júnior%20%E2%80%A2%20RPA%20%E2%80%A2%20APIs%20%E2%80%A2%20Automa%C3%A7%C3%A3o&descAlignY=60&descSize=18&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:0A192F,100:007AFF&text=Guilherme%20Rodrigues&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Júnior%20%E2%80%A2%20RPA%20%E2%80%A2%20APIs%20%E2%80%A2%20Automa%C3%A7%C3%A3o&descAlignY=60&descSize=18&animation=twinkling" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&duration=3200&pause=900&color=FF6FAE&center=true&vCenter=true&width=700&lines=Desenvolvedora+Backend+J%C3%BAnior;Construindo+APIs+e+automa%C3%A7%C3%B5es;Node.js+%7C+RPA+%7C+Cloud+%7C+Dados;Transformando+regras+de+neg%C3%B3cio+em+c%C3%B3digo" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&duration=3200&pause=900&color=007AFF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Backend+J%C3%BAnior;Construindo+APIs+e+automa%C3%A7%C3%B5es;Node.js+%7C+RPA+%7C+Cloud+%7C+Dados;Transformando+regras+de+neg%C3%B3cio+em+c%C3%B3digo" alt="Typing Animation" />
 
 <br>
 
-<a href="https://github.com/pamellachristiny">
-<img src="https://komarev.com/ghpvc/?username=pamellachristiny&label=VISITAS%20AO%20PERFIL&color=ff4f9a&style=flat-square" alt="Profile views"/>
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITAS%20AO%20PERFIL&color=007AFF&style=flat-square" alt="Profile views"/>
 </a>
 
 </div>
@@ -24,13 +24,13 @@
 
 <div align="center">
 
-### `✦ um pouco sobre mim ✦`
+### `um pouco sobre mim`
 
 </div>
 
-<img align="right" width="270" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0d0d0d&text=%3C%2F%3E&fontColor=ff6fae&fontSize=80&fontAlignY=55&stroke=ff4f9a&strokeWidth=1" />
+<img align="right" width="270" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0d0d0d&text=%3C%2F%3E&fontColor=007AFF&fontSize=80&fontAlignY=55&stroke=007AFF&strokeWidth=1" />
 
-Sou **Desenvolvedora Backend Júnior**, com foco em **Node.js, APIs e automação RPA**.
+Sou **Desenvolvedor Backend Júnior**, com foco em **Node.js, APIs e automação RPA**.
 
 Gosto de entender primeiro **a regra de negócio e o problema que precisa ser resolvido** e, a partir disso, transformar a necessidade em uma solução organizada e previsível.
 
@@ -51,7 +51,7 @@ Também tenho experiência acadêmica e prática com **C++, HTML, JS, SQL e NoSQ
 
 <div align="center">
 
-## `♡ TECNOLOGIAS`
+## `TECNOLOGIAS`
 
 ### Linguagens & Backend
 
@@ -83,7 +83,7 @@ Também tenho experiência acadêmica e prática com **C++, HTML, JS, SQL e NoSQ
 <tr>
 <td width="50%" valign="top">
 
-### 🩷 Backend
+### 💙 Backend
 
 ```text
 Node.js       ████████████████████  principal
