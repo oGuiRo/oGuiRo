@@ -138,7 +138,7 @@ Java          ██████████████░░░░░░  expe
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-FF4F9A?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007AFF?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/QA-171117?style=flat-square&logo=testinglibrary&logoColor=007AFF"/>
 
 <br><br>
@@ -148,7 +148,7 @@ Site com integração aos arquivos S3 WebPosto e unificação de ferramentas uti
 <br><br>
 
 <a href="https://suportetecnico.portalunificado.workers.dev/">
-<img src="https://img.shields.io/badge/VER%20PROJETO-FF4F9A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VER%20PROJETO-007AFF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
