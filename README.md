@@ -134,7 +134,7 @@ Java          ██████████████░░░░░░  expe
 
 <td width="50%" valign="top">
 
-<h3 align="center">🧪 Teste de Login Automatizado</h3>
+<h3 align="center">📚 Portal Unificado de Suporte Técnico</h3>
 
 <div align="center">
 
@@ -143,7 +143,7 @@ Java          ██████████████░░░░░░  expe
 
 <br><br>
 
-Automação de testes de login utilizando Java, com foco em validação de cenários e qualidade do fluxo.
+Site com integração aos arquivos S3 WebPosto e unificação de ferramentas utilizadas no dia a dia do Suporte Técnico.
 
 <br><br>
 
@@ -156,82 +156,6 @@ Automação de testes de login utilizando Java, com foco em validação de cená
 </td>
 
 <td width="50%" valign="top">
-
-<h3 align="center">☁️ Challenge Cloud & DevOps</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Azure-FF4F9A?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/DevOps-171117?style=flat-square&logo=azuredevops&logoColor=FF6FAE"/>
-
-<br><br>
-
-Projeto acadêmico envolvendo conceitos de Cloud, DevOps, containers e implantação de aplicação.
-
-<br><br>
-
-<a href="https://github.com/Portifolio-Pamella/Challenge-Cloud-Devops">
-<img src="https://img.shields.io/badge/VER%20PROJETO-FF4F9A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🐾 Sistema Veterinário</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/.NET-FF4F9A?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-171117?style=flat-square&logo=oracle&logoColor=FF6FAE"/>
-
-<br><br>
-
-API para gerenciamento de um sistema veterinário, trabalhando com entidades, regras de negócio, persistência e arquitetura backend.
-
-<br><br>
-
-<a href="https://github.com/Portifolio-Pamella/sistema-veterinario-dotnet">
-<img src="https://img.shields.io/badge/VER%20PROJETO-FF4F9A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🚀 Gestão de Detritos Espaciais</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/.NET-FF4F9A?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-171117?style=flat-square&logo=microsoftazure&logoColor=FF6FAE"/>
-
-<br><br>
-
-Sistema backend voltado ao gerenciamento de informações relacionadas a detritos espaciais, explorando API, banco de dados e Cloud.
-
-<br><br>
-
-<a href="https://github.com/Portifolio-Pamella/sistema-gestao-lixo-espacial-dotnet">
-<img src="https://img.shields.io/badge/VER%20PROJETO-FF4F9A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
-</tr>
-
-</table>
----
 
 <div align="center">
 
