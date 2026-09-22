@@ -235,9 +235,11 @@ Sistema backend voltado ao gerenciamento de informações relacionadas a detrito
 
 <div align="center">
 
-## `♡ contribution garden`
+## `contribution garden`
 
-<img src="https://raw.githubusercontent.com/pamellachristiny/pamellachristiny/output/github-contribution-grid-snake-dark.svg" alt="Snake animation das contribuições" width="95%" />
+<img src="..." alt="Snake animation das contribuições" width="95%" />
+
+</div>
 
 </div>
 
