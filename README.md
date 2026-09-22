@@ -147,7 +147,7 @@ Site com integração aos arquivos S3 WebPosto e unificação de ferramentas uti
 
 <br><br>
 
-<a href="[https://github.com/Portifolio-Pamella/CP5QA--Teste-Login-automatizados-com-Java](https://suportetecnico.portalunificado.workers.dev/)">
+<a href="https://suportetecnico.portalunificado.workers.dev/">
 <img src="https://img.shields.io/badge/VER%20PROJETO-FF4F9A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
