@@ -93,19 +93,6 @@ Java          ██████████████░░░░░░  expe
 ```
 
 </td>
-
-<td width="50%" valign="top">
-
-### ♡ Dados
-
-```text
-SQL           █████████████████░░░  experiência
-Oracle        ███████████████░░░░░  experiência
-PostgreSQL    ██████████████░░░░░░  experiência
-MongoDB       ██████████████░░░░░░  experiência
-```
-
-</td>
 </tr>
 </table>
 
