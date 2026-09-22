@@ -237,7 +237,7 @@ Sistema backend voltado ao gerenciamento de informações relacionadas a detrito
 
 ## `contribution garden`
 
-<img src="..." alt="Snake animation das contribuições" width="95%" />
+<img src="https://raw.githubusercontent.com/oGuiRo/oGuiRo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation das contribuições" width="95%" />
 
 </div>
 
